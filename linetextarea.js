@@ -39,4 +39,3 @@
       inputEvent();
     }
   }
-linetextarea()
