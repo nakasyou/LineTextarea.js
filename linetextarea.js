@@ -10,7 +10,6 @@
       // 横並び
       $core.style.display = "flex";
       // スクロール
-      $lineArea.style.height = "100px";
       $lineArea.style.overflowY = "scroll";
       // textarea css
       $textarea.style.borderRadius = 0;
